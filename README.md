@@ -2,7 +2,7 @@
 My name is Igor Giuliano, I'm 18 years old.
 
 I'm studying Computer Engineering at Centro Universitário Senac.
-- [X] 3/10 semesters
+- [X] 4/10 semesters
 
 <!--
 **IgorGiuliano/IgorGiuliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
