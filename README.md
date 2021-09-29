@@ -18,12 +18,12 @@
 <br>
   
 [![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorGiuliano&count_private=true&theme=tokyonight&show_icons=true)
-](https://github.com/IgorGiuliano/github-readme-stats)
+](https://github.com/IgorGiuliano?tab=repositories)
 
 <br>
 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGiuliano&layout=compact&count_private=true&theme=tokyonight)](https://github.com/IgorGiuliano/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGiuliano&layout=compact&count_private=true&theme=tokyonight)]
 
 **IgorGiuliano/IgorGiuliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
