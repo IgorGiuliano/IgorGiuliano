@@ -1,8 +1,19 @@
-# Hello everyone!
-My name is Igor Giuliano, I'm 19 years old.
+# About me
+  
+🚶🏻‍♂️   My name is Igor Giuliano, I'm 19 years old.
+  
+🏡  I’m from Brazil.
 
-I'm studying Computer Engineering at Centro Universitário Senac.
-- [X] 4/10 semesters
+👨🏻‍🎓  Computer Engineering at Centro Universitário Senac - 4th semester.
+
+💻  I’m currently learning a bit of everything.
+
+📤  2021 Goals: find a new job.
+
+<br>
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IgorGiuliano/)](https://github.com/IgorGiuliano/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/igor-giuliano)](https://br.linkedin.com/in/igor-giuliano)
 
 <br>
   
