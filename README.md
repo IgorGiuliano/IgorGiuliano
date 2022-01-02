@@ -22,7 +22,7 @@
 
 <br>
 
-![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+![Langs](https://github.com/IgorGiuliano/github-stats/blob/master/generated/languages.svg)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGiuliano&layout=compact&count_private=true&theme=tokyonight)](https://github.com/IgorGiuliano)
 <br>
