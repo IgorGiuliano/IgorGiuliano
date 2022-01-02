@@ -4,11 +4,11 @@
   
 🏡  I’m from Brazil.
 
-👨🏻‍🎓  Computer Engineering at Centro Universitário Senac - 4th semester.
+👨🏻‍🎓  Computer Engineering at Centro Universitário Senac - 5th semester.
 
 💻  I’m currently learning a bit of everything.
 
-📤  2021 Goals: find a new job.
+📤  2022 Goals: find a job.
 
 <br>
 
@@ -22,9 +22,9 @@
 
 <br>
 
-<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGiuliano&layout=compact&count_private=true&theme=tokyonight)]
 
+<!--
 **IgorGiuliano/IgorGiuliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
