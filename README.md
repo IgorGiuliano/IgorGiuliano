@@ -22,7 +22,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGiuliano&layout=compact)](https://github.com/IgorGiuliano/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGiuliano&layout=compact&theme=tokyonight)](https://github.com/IgorGiuliano/)
 <!--
 **IgorGiuliano/IgorGiuliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
