@@ -1,5 +1,6 @@
 # About me
   
+<div align="center">
 🚶🏻‍♂️   My name is Igor Giuliano, I'm 19 years old.
   
 🏡  I’m from Brazil.
@@ -10,6 +11,7 @@
 
 📤  2022 Goals: find a job.
 
+</div>
 <br>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IgorGiuliano/)](https://github.com/IgorGiuliano/)
@@ -17,7 +19,7 @@
 
 <br>
 
-<div align="center" justify-content="center">
+<div align="center">
   
   [![](https://github-readme-stats.vercel.app/api?username=IgorGiuliano&count_private=true&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/IgorGiuliano/)
   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGiuliano&theme=tokyonight&hide_border=true)](https://github.com/IgorGiuliano/)
