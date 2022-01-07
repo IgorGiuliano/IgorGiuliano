@@ -1,6 +1,6 @@
 # About me
   
-<div align="center">
+<div align="start">
 🚶🏻‍♂️   My name is Igor Giuliano, I'm 19 years old.
   
 🏡  I’m from Brazil.
@@ -14,9 +14,12 @@
 </div>
 <br>
 
+<div align="center">
+  
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IgorGiuliano/)](https://github.com/IgorGiuliano/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/igor-giuliano)](https://br.linkedin.com/in/igor-giuliano)
 
+</div>
 <br>
 
 <div align="center">
