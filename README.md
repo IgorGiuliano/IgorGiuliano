@@ -2,11 +2,17 @@
   
 <div align="start">
   <div>
+    
     🚶🏻‍♂️   My name is Igor Giuliano, I'm 19 years old.
+    
     🏡  I’m from Brazil.
+    
     👨🏻‍🎓  Computer Engineering at Centro Universitário Senac - 5th semester.
+    
     💻  I’m currently learning a bit of everything.
+    
     📤  2022 Goals: find a job.
+    
   </div>
 </div>
 <div align="center">
