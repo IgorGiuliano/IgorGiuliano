@@ -21,8 +21,8 @@
    </div>
    <div align="start">
       
-   [![](https://github-readme-stats.vercel.app/api?username=IgorGiuliano&count_private=true&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/IgorGiuliano/)
-   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGiuliano&theme=tokyonight&hide_border=true)](https://github.com/IgorGiuliano/)
+   [![](https://github-readme-stats.vercel.app/api?username=IgorGiuliano&count_private=true&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/IgorGiuliano/)
+   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGiuliano&theme=tokyonigh&layout=compactt&hide_border=true)](https://github.com/IgorGiuliano/)
 
    </div>
 </div>
