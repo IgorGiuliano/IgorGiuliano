@@ -1,5 +1,6 @@
 # About me
 <div align="center">
+   <div>
     
    🚶🏻‍♂️   My name is Igor Giuliano, I'm 19 years old.
     
@@ -11,7 +12,7 @@
     
    📤  2022 Goals: find a job.
  
-
+   </div>
   
    [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IgorGiuliano/)](https://github.com/IgorGiuliano/)
     
