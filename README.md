@@ -20,7 +20,7 @@
    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/igor-giuliano)](https://br.linkedin.com/in/igor-giuliano)
 
    </div>
-   <div >
+   <div align="start">
       
    [![](https://github-readme-stats.vercel.app/api?username=IgorGiuliano&count_private=true&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/IgorGiuliano/)
   
