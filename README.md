@@ -1,6 +1,6 @@
 # About me
 <div align="center">
-   <div>
+   <div align="start">
     
    🚶🏻‍♂️   My name is Igor Giuliano, I'm 19 years old.
     
