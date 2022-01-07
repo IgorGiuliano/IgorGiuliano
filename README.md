@@ -1,19 +1,18 @@
 # About me
   
 <div align="start">
-🚶🏻‍♂️   My name is Igor Giuliano, I'm 19 years old.
-  
-🏡  I’m from Brazil.
+  <div>
+    🚶🏻‍♂️   My name is Igor Giuliano, I'm 19 years old.
 
-👨🏻‍🎓  Computer Engineering at Centro Universitário Senac - 5th semester.
+    🏡  I’m from Brazil.
 
-💻  I’m currently learning a bit of everything.
+    👨🏻‍🎓  Computer Engineering at Centro Universitário Senac - 5th semester.
 
-📤  2022 Goals: find a job.
+    💻  I’m currently learning a bit of everything.
 
+    📤  2022 Goals: find a job.
+  </div>
 </div>
-<br>
-
 <div align="center">
   
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IgorGiuliano/)](https://github.com/IgorGiuliano/)
