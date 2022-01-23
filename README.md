@@ -20,8 +20,7 @@
 
    </div>
    <div align="center">
-   
-<!--   
+    
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGiuliano&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/IgorGiuliano/)
       
    [![Stats](https://github-readme-stats.vercel.app/api?username=IgorGiuliano&count_private=true&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/IgorGiuliano/)
@@ -29,5 +28,6 @@
    </div>
 </div>
   
+<!--  
 **IgorGiuliano/IgorGiuliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
