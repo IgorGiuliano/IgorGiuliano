@@ -24,9 +24,7 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGiuliano&theme=tokyonight&layout=compact&hide_border=true"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorGiuliano&count_private=true&theme=tokyonight&show_icons=true&hide_border=true"/>
    </div>
-   
+   ![Snake animation](https://github.com/IgorGiuliano/IgorGiuliano/blob/output/github-contribution-grid-snake.svg)
+      
+      
 </div>
-  
-<!--  
-**IgorGiuliano/IgorGiuliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
