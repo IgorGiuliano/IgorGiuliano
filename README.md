@@ -19,7 +19,7 @@
    <br></br>
    
    <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img height="10em" width="10em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    </div>
       
    <div>  
