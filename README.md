@@ -11,7 +11,7 @@
    💻  I’m currently learning a bit of everything.
     
    📤  2022 Goals: find a job.
-   
+   </ div>
    <div>
       <a href="https://linkedin.com/in/igor-giuliano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
       
