@@ -27,6 +27,8 @@
    <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
    <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
       
+   <br></br>
+   
    <div>  
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGiuliano&theme=tokyonight&layout=compact&hide_border=true"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorGiuliano&count_private=true&theme=tokyonight&show_icons=true&hide_border=true"/>
