@@ -18,7 +18,6 @@
     
    <br></br>
    
-   <div>
     <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
     <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -27,7 +26,6 @@
     <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-   </div>
       
    <div>  
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGiuliano&theme=tokyonight&layout=compact&hide_border=true"/>
