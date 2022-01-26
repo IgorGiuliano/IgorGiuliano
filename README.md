@@ -13,12 +13,15 @@
    📤  2022 Goals: find a job.
  
    </div>
-   <div >
    
-   [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IgorGiuliano/)](https://github.com/IgorGiuliano/)
-   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/igor-giuliano)](https://br.linkedin.com/in/igor-giuliano)
+   <div>
+      <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+      <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+      <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+      <a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href="https://linkedin.com/in/igor-giuliano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+   </div>
 
-   </div>   
    <div>
       <a href="https://github.com/seu-usuário-aqui">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGiuliano&theme=tokyonight&layout=compact&hide_border=true"/>
