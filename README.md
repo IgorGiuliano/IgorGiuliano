@@ -4,11 +4,11 @@
 
    🏡  I’m from Brazil.
 
-   👨🏻‍🎓  Computer Engineering at Centro Universitário Senac - 5th semester.
+   👨🏻‍🎓  Computer Engineering at Centro Universitário Senac - 6th semester.
 
    💻  I’m currently learning a bit of everything.
 
-   📤  2022 Goals: find a job.
+   📤  2022 Goals: find a full-time remote job.
       
 
 <div align="center">
