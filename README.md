@@ -1,14 +1,16 @@
 # About me
     
    🚶🏻‍♂️   My name is Igor Giuliano, I'm 19 years old.
+    
+   🏡  I’m from São Paulo, Brazil.
 
-   🏡  I’m from Brazil.
+   👨🏻‍🎓  Computer Engineering at Centro Universitário SENAC - 6th semester.
 
-   👨🏻‍🎓  Computer Engineering at Centro Universitário Senac - 6th semester.
-
-   💻  I’m currently learning a bit of everything.
+   💻  I’m currently working at SENAC as RPA developer intern.
 
    📤  2022 Goals: find a full-time remote job.
+
+   📚  I’m currently learning : Ruby.
       
 
 <div align="center">
