@@ -1,6 +1,6 @@
 # About me
     
-   🚶🏻‍♂️   My name is Igor Giuliano, I'm 19 years old.
+   🚶🏻‍♂️   My name is Igor Giuliano, I'm 20 years old.
     
    🏡  I’m from São Paulo, Brazil.
 
