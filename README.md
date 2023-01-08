@@ -4,13 +4,13 @@
     
    🏡  I’m from São Paulo, Brazil.
 
-   👨🏻‍🎓  Computer Engineering at Centro Universitário SENAC - 6th semester.
+   👨🏻‍🎓  Computer Engineering at Centro Universitário SENAC - 7th semester.
 
-   💻  I’m currently working at SENAC as RPA developer intern.
+   💻  I’m currently working at SENAC as Junior RPA developer.
 
-   📤  2022 Goals: find a full-time remote job.
+   📤  2023 Goals: Work with NodeJS, JavaScript and TypeScript.
 
-   📚  I’m currently learning : LoRa.
+ 
       
 
 <div align="center">
@@ -43,6 +43,7 @@
 
    
 <!--  <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-      <a href = "mailto:contato@igor.andrade07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+      <a href = "mailto:contato@igor.andrade07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+📚  I’m currently learning : LoRa.
       <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  -->
