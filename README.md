@@ -32,8 +32,8 @@
    <br></br>
    
    <div>
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=IgorGiuliano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGiuliano&layout=compact&langs_count=10&theme=tokyonight"/>
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=IgorGiuliano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGiuliano&layout=compact&langs_count=10&theme=tokyonight"/>
    </div>
 
    <br></br>
