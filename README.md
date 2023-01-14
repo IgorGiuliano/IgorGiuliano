@@ -32,13 +32,15 @@
    <br></br>
    
    <div>  
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGiuliano&theme=tokyonight&layout=compact&hide_border=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorGiuliano&count_private=true&theme=tokyonight&show_icons=true&hide_border=true"/>
-      <img height="180em" src="https://raw.githubusercontent.com/IgorGiuliano/IgorGiuliano/output/github-contribution-grid-snake.svg"/>
+
+      
    </div>
 
    <br></br>
-      
+   <p align="center"> 
+        Visitor count<br>
+   <img src="https://profile-counter.glitch.me/IgorGiuliano/count.svg" />
+</p>
 </div>
 
    
