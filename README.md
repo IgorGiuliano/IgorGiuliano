@@ -31,9 +31,8 @@
       
    <br></br>
    
-   <div>  
-
-      
+   <div>
+        ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
    </div>
 
    <br></br>
