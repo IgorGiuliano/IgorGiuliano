@@ -36,10 +36,10 @@
     <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGiuliano&layout=compact&langs_count=10&theme=tokyonight"/>
    </div>
 
-   <br></br>
+   <br>
+   </br>
    
-    ![Snake animation]([https://github.com/IgorGiuliano/IgorGiuliano/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/IgorGiuliano/IgorGiuliano/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only))
-    
+   ![Snake animation]([https://github.com/IgorGiuliano/IgorGiuliano/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/IgorGiuliano/IgorGiuliano/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only))
     <p align="center"> 
         Visitor count
         <br>
