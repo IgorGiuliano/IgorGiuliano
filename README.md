@@ -35,7 +35,7 @@
     <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=IgorGiuliano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGiuliano&layout=compact&langs_count=10&theme=tokyonight"/>
    </div>
-
+   ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
    <br></br>
    <p align="center"> 
         Visitor count<br>
