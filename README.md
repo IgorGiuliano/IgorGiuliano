@@ -37,15 +37,16 @@
    </div>
 
    <br></br>
-
+   
+    ![Snake animation]([https://github.com/IgorGiuliano/IgorGiuliano/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/IgorGiuliano/IgorGiuliano/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only))
+    
+    <p align="center"> 
+        Visitor count
+        <br>
+        <img src="https://profile-counter.glitch.me/IgorGiuliano/count.svg" />
+    </p>
 </div>
-![github contribution grid snake animation](https://raw.githubusercontent.com/IgorGiuliano/IgorGiuliano/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-<p align="center"> 
-    Visitor count
-    <br>
-    <img src="https://profile-counter.glitch.me/IgorGiuliano/count.svg" />
-</p>
 
    
 <!--  <a href="https://www.youtube.com/seu-canal-youtube-aqui" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
