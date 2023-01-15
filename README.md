@@ -39,7 +39,7 @@
    <br>
    </br>
    
-   ![Snake animation]([https://github.com/IgorGiuliano/IgorGiuliano/blob/output/github-contribution-grid-snake.svg])
+   ![SnakeAnimation](https://raw.githubusercontent.com/IgorGiuliano/IgorGiuliano/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
     <p align="center"> 
         Visitor count
         <br>
