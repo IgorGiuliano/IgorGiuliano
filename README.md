@@ -18,7 +18,7 @@ In the overview below you will find my most recent work experience:
 
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="SENAC SP" src="https://www.sp.senac.br/o/senac-theme/images/logo_senac_default.png"/>](https://www.sp.senac.br/)
+[<img align="left" height="65px" width="94px" alt="SENAC SP" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Senac_logo.svg"/>](https://www.sp.senac.br/)
 
 **RPA Developer (Jr)** \
 [**SENAC SP**](https://www.sp.senac.br/) • CLT \
@@ -27,7 +27,7 @@ Linguagens & Tecnologias: `Python`, `Automation Anywhere v11`, `Automation Anywh
 
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="SENAC SP" src="https://www.sp.senac.br/o/senac-theme/images/logo_senac_default.png"/>](https://www.sp.senac.br/)
+[<img align="left" height="65px" width="94px" alt="SENAC SP" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Senac_logo.svg"/>](https://www.sp.senac.br/)
 **RPA Developer (Intern)** \
 [**SENAC SP**](https://www.sp.senac.br/) • Contract \
 Languagens & Technologies: `Python`, `Automation Anywhere v11`, `Automation Anywhere 365`\
@@ -43,14 +43,14 @@ Please, find me at [LinkedIn](https://linkedin.com/in/igor-giuliano) for a detai
 
 <br/>
 <div align="center">
-   <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-   <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-   <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-   <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-   <img height="80em" width="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+   <img height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+   <img height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <img height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+   <img height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   <img height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+   <img height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+   <img height="40em" width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
 </div>
 <br/>
 
