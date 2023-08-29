@@ -1,12 +1,12 @@
 # About me
 
-   🚶🏻‍♂️   My name is Igor Giuliano, I'm 21 years old.
+   🚶🏻‍♂️  My name is Igor Giuliano, I'm 21 years old.
 
    🏡  I’m from São Paulo, Brazil.
 
-   👨🏻‍🎓  Computer Engineering at Centro Universitário SENAC - 7th semester.
+   👨🏻‍🎓  Computer Engineering at Centro Universitário SENAC - 8th semester.
 
-   💻  I’m currently working at SENAC as Junior RPA Developer.
+   💻  I’m currently working at SENAC as Junior Developer.
 
    📤  2023 Goals: Work with NodeJS, JavaScript and TypeScript.
 
@@ -20,7 +20,7 @@ In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="SENAC SP" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Senac_logo.svg"/>](https://www.sp.senac.br/)
 
-**RPA Developer (Jr)** \
+**Developer (Jr)** \
 [**SENAC SP**](https://www.sp.senac.br/) • CLT \
 Linguagens & Tecnologias: `Python`, `Automation Anywhere v11`, `Automation Anywhere 360`
 <!-- Featured Projects: [](), []() -->
@@ -28,7 +28,7 @@ Linguagens & Tecnologias: `Python`, `Automation Anywhere v11`, `Automation Anywh
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="SENAC SP" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Senac_logo.svg"/>](https://www.sp.senac.br/)
-**RPA Developer (Intern)** \
+**Developer (Intern)** \
 [**SENAC SP**](https://www.sp.senac.br/) • Contract \
 Languagens & Technologies: `Python`, `Automation Anywhere v11`, `Automation Anywhere 360`
 
