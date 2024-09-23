@@ -1,10 +1,10 @@
 # About me
 
-   🚶🏻‍♂️  My name is Igor Giuliano, I'm 21 years old.
+   🚶🏻‍♂️  My name is Igor Giuliano, I'm 22 years old.
 
    🏡  I’m from São Paulo, Brazil.
 
-   👨🏻‍🎓  Computer Engineering at Centro Universitário SENAC - 9th semester.
+   👨🏻‍🎓  Computer Engineering at Centro Universitário SENAC - 10th semester.
 
    💻  I’m currently working at SENAC as Junior Developer.
 
