@@ -4,11 +4,11 @@
 
    🏡  I’m from São Paulo, Brazil.
 
-   👨🏻‍🎓  Computer Engineering at Centro Universitário SENAC - 10th semester.
+   👨🏻‍🎓  Bachelor in Computer Engineering (SENAC-SP - Centro Universitário SENAC).
 
-   💻  I’m currently working at SENAC as Junior Developer.
+   💻  I’m currently seeking a new role.
 
-   📤  2024 Goals: Work with NodeJS, JavaScript and TypeScript.
+   📤  2025 Goals: Work with NodeJS, JavaScript and TypeScript.
 
 <br>
 
