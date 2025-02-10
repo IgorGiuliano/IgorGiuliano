@@ -12,29 +12,6 @@
 
 <br>
 
-# Work experience
-
-In the overview below you will find my most recent work experience:
-
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="SENAC SP" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Senac_logo.svg"/>](https://www.sp.senac.br/)
-
-**Developer (Jr)** \
-[**SENAC SP**](https://www.sp.senac.br/) • CLT \
-Linguagens & Tecnologias: `Python`, `Automation Anywhere v11`, `Automation Anywhere 360`
-<!-- Featured Projects: [](), []() -->
-
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="SENAC SP" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Senac_logo.svg"/>](https://www.sp.senac.br/)
-**Developer (Intern)** \
-[**SENAC SP**](https://www.sp.senac.br/) • Contract \
-Languagens & Technologies: `Python`, `Automation Anywhere v11`, `Automation Anywhere 360`
-
-<br/>
-<br/>
-
 Please, find me at [LinkedIn](https://linkedin.com/in/igor-giuliano) for a detailed description of my work experience, education and certifications.
 
 <br>
