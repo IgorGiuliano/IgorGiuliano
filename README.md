@@ -1,14 +1,14 @@
 # About me
 
-   🚶🏻‍♂️  My name is Igor Giuliano, I'm 22 years old.
+   🚶🏻‍♂️  My name is Igor Giuliano, I'm 23 years old.
 
    🏡  I’m from São Paulo, Brazil.
 
-   👨🏻‍🎓  Bachelor in Computer Engineering (SENAC-SP - Centro Universitário SENAC).
+   👨🏻‍🎓  Bachelor in Computer Engineering and Master in Artificial Intelligence.
 
-   💻  I’m currently seeking a new role.
+   💻  I’m currently a Software Engineer III.
 
-   📤  2025 Goals: Work with NodeJS, JavaScript and TypeScript.
+   📤  2026 Goals: Learn 3D printing.
 
 <br>
 
